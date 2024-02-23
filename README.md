@@ -36,13 +36,14 @@
 <h3 align="center">Statistics</h3>
 
 <div align="center">
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMaeSalvana&layout=compact&theme=dark" alt=AngelaMaeSalvana />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelaMaeSalvana&show_icons=true&locale=en&theme=dark" alt="AngelaMaeSalvana" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaMaeSalvana&theme=dark" alt="AngelaMaeSalvana" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaMaeSalvana&theme=dark" alt="AngelaMaeSalvana" /></p> 
 
 <a href="https://github.com/AngelaMaeSalvana"> 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelaMaeSalvana&theme=dark" height="180em" />
