@@ -36,8 +36,8 @@ You can explore my projects and code here:
 
 ## 📫 Connect with Me
 
-- Email: [your email here]  
-- Portfolio: [your link here]  
+- Email: salvanaangelamae@gmail.com
+- Portfolio: WIP
 
 ---
 
