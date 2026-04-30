@@ -2,43 +2,35 @@
 
 💻 Web Developer  
 🎨 Focused on clean, modern, and user-centered design  
-🛍️ Building e-commerce experiences with a premium feel  
+✨ Crafting purposeful digital experiences  
 
 ---
 
 ## ✨ About Me
 
-I design and develop modern websites with a focus on:
-- Clean UI and smooth user experience  
-- E-commerce systems (products, cart, checkout, accounts)  
-- Responsive and scalable web applications  
+I design and develop modern web applications with a focus on:
+- Clean and intuitive user interfaces  
+- Scalable and maintainable systems  
+- Responsive and performance-driven design  
 
-Currently working on a **Filipiniana-inspired e-commerce platform**.
+I enjoy building solutions that balance functionality and visual clarity.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Prisma  
-- **Database:** PostgreSQL  
-- **Payments:** Stripe  
+- **Backend:** Node.js  
+- **Database:** PostgreSQL / MySQL  
+- **Tools:** Git, REST APIs  
 
 ---
 
-## 🚀 Featured Project
+## 📁 My Work
 
-### 🛍️ LUNTIAN — E-commerce Concept
+You can explore my projects and code here:
 
-A modern Filipiniana-inspired online store designed with a premium and minimalist aesthetic.
-
-**Features:**
-- Product browsing and collections  
-- Shopping cart and checkout flow  
-- Customer account and order tracking  
-- Clean and responsive UI  
-
-> Designed to deliver a seamless and elegant shopping experience.
+👉 [View My Repositories](https://github.com/AngelaMaeSalvana?tab=repositories)
 
 ---
 
@@ -49,4 +41,4 @@ A modern Filipiniana-inspired online store designed with a premium and minimalis
 
 ---
 
-✨ *Focused on building thoughtful digital experiences that blend design and functionality.*
+✨ *Focused on building clean, thoughtful, and user-friendly digital experiences.*
