@@ -1,9 +1,5 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AngelaMaeSalvana&theme=monokai" alt="AngelaMaeSalvana" /></a> </p>
-
-- 🔭 I’m currently working on [A web-based Library Management System](https://github.com/AngelaMaeSalvana/newlib)
-- 🌱 I’m currently learning **Web Development** & **PHP**
-
 - 📫 How to reach me **salvanaangelamae@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Angela Salvaña" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
