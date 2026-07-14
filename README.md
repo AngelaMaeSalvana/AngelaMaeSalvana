@@ -1,12 +1,10 @@
 # Hi, I'm Angela Mae 👋
 
 💻 Web Developer  
-🎨 Focused on clean, modern, and user-centered design  
-✨ Crafting purposeful digital experiences  
 
 ---
 
-## ✨ About Me
+## About Me
 
 I design and develop modern web applications with a focus on:
 - Clean and intuitive user interfaces  
@@ -17,7 +15,7 @@ I enjoy building solutions that balance functionality and visual clarity.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js  
@@ -26,7 +24,7 @@ I enjoy building solutions that balance functionality and visual clarity.
 
 ---
 
-## 📁 My Work
+## My Work
 
 You can explore my projects and code here:
 
@@ -34,11 +32,9 @@ You can explore my projects and code here:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - Email: salvanaangelamae@gmail.com
 - Portfolio: WIP
 
 ---
-
-✨ *Focused on building clean, thoughtful, and user-friendly digital experiences.*
