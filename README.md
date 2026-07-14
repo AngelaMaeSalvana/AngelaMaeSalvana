@@ -17,10 +17,10 @@ I enjoy building solutions that balance functionality and visual clarity.
 
 ## Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS  
+- **Frontend:** HTML, CSS, JS, ReactJS, Tailwind CSS  
 - **Backend:** Node.js  
 - **Database:** PostgreSQL / MySQL  
-- **Tools:** Git, REST APIs  
+- **Tools:** Git, Figma, etc..  
 
 ---
 
